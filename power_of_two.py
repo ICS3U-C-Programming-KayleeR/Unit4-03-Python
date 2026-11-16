@@ -16,14 +16,14 @@ def main():
 
         # eliminate negative numbers
         if user_int < 0:
-            print("Integer inputs must be positive")
+            print("Integer inputs must be positive.")
         else:
             for counter in range(user_int + 1):
                 power_2 = counter**2
                 print("{} to the power of 2 is {}".format(counter, power_2))
         print()
     except:
-        print("{} is not a positive integer".format(user_num))
+        print("{} is not a positive integer.".format(user_num))
     print("Thanks for playing!")
 
 
