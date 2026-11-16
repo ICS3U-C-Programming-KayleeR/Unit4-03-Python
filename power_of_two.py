@@ -19,7 +19,7 @@ def main():
             print("Integer inputs must be positive.")
         else:
             for counter in range(user_int + 1):
-                power_2 = counter**2
+                power_2 = counter ** 2
                 print("{} to the power of 2 is {}".format(counter, power_2))
         print()
     except:
