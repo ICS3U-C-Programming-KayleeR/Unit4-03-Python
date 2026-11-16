@@ -2,7 +2,7 @@
 # Created By: Kaylee R
 # Date: 11, 11, 2026
 # This program raises positive
-# whole numbers to the power of 2 usinga for loop.
+# whole numbers to the power of 2 using a for loop.
 
 
 def main():
